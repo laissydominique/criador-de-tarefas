@@ -1,0 +1,18 @@
+{
+    "name": "php/vrud",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Php\\Vrud\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Laissy",
+            "email": "laissydominique@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "symfony/var-dumper": "^7.0"
+    }
+}
